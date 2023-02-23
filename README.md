@@ -7,8 +7,8 @@ I'm currently  working on a new project using React and Redux, collaborating wit
 What I've worked on
 Here are some projects that I've worked on in the past:
 
-Knovuslab [https://www.knovuslab.com/]: innovation lab, that deliver strategic analysis, application development and enterprise integration through leading emerging technologies and media.
-E-commerce [https://comfy-yishak.netlify.app/]: Demo for E-commerce orders in upwork
+💻Knovuslab [https://www.knovuslab.com/]: innovation lab, that deliver strategic analysis, application development and enterprise integration through leading emerging technologies and media.
+💻E-commerce [https://comfy-yishak.netlify.app/]: Demo for E-commerce orders in upwork
 
 You can find more information about these projects, including the code and live demo links, on my Linkdin [https://www.linkedin.com/in/yishak-abrham-2a865611b/].
 
