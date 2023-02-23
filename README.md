@@ -1,4 +1,4 @@
-Hi there, I'm Yishak Abrham 👋
+Hi there . this is my new git account, I'm Yishak Abrham 👋
 I'm a frontend web developer with 3+ years of experience in building modern and responsive web applications. I specialize in  JavaScript, React, HTML/CSS,Next.js and have a strong understanding of UI/UX principles.
 
 What I'm working on
