@@ -1,5 +1,5 @@
 Hi there . this is my new git account, I'm Yishak Abrham 👋
-I'm a MERN stack web developer with 3+ years of experience in building modern and responsive web applications. I specialize in React with Redux , Next.js and have a strong understanding of UI/UX principles.
+I'm a MERN stack web developer with 5+ years of experience in building modern and responsive web applications. I specialize in React with Redux , Next.js and have a strong understanding of UI/UX principles.
 
 What I'm working on
 I'm currently  working on a new project using React and Redux, collaborating with a team of designers to create a new website that enables users to stream there podcasts.
