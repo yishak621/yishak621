@@ -1,4 +1,4 @@
-Hi there . this is my new git account, I'm Yishak Abrham 👋
+Hi there . this is my new Github account, I'm Yishak Abrham 👋
 I'm a  web developer with 6+ years of experience in building modern and responsive web applications. I specialize in React with Redux , Next.js,React.js,Node.js and have a strong understanding of UI/UX principles.
 
 What I'm working on
