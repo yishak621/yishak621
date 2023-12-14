@@ -34,11 +34,7 @@ I'm a web developer with 6+ years of experience in building modern and responsiv
 
 ## GitHub Streaks
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yishak621)
-
 ![Current Streak](https://github-readme-streak-stats.herokuapp.com/?user=yishak621&currStreakLabel=4395DD&ring=4395DD&currStreakNum=4395DD&sideNums=4395DD&dates=4395DD)
-
-You can find more information about these projects, including the code and live demo links, on my Linkdin
 
 What I bring to the table
 🔭 Strong knowledge of [JavaScript, React, HTML/CSS,Next.js and node.js]
