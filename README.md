@@ -1,3 +1,5 @@
+![Profile Image](https://i.imgur.com/Bd44LFn.png)
+
 # Hello, I'm Yishak Abrham 👋
 
 ## This is my new Github account
@@ -7,8 +9,6 @@ I'm a web developer with 6+ years of experience in building modern and responsiv
 - 👨‍💻 Software Engineer
 - 🌐 Web Developer
 - 📚 Lifelong Learner
-
-![Profile Image](https://i.imgur.com/Bd44LFn.png)
 
 ## GitHub Stats
 
