@@ -2,14 +2,15 @@
 
 # Hello, I'm Yishak Abrham 👋
 
-## This is my new Github account
-
-![Alt Text](https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif)
-I'm a web developer with 6+ years of experience in building modern and responsive web applications. I specialize in React with Redux , Next.js,React.js,Node.js and have a strong understanding of UI/UX principles.
-
 - 👨‍💻 Software Engineer
 - 🌐 Web Developer
 - 📚 Lifelong Learner
+
+## This is my new Github account
+
+![Alt Text](https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif)
+
+I'm a web developer with 6+ years of experience in building modern and responsive web applications. I specialize in React with Redux , Next.js,React.js,Node.js and have a strong understanding of UI/UX principles.
 
 ## GitHub Stats
 
