@@ -5,6 +5,7 @@
 ## This is my new Github account
 
 I'm a web developer with 6+ years of experience in building modern and responsive web applications. I specialize in React with Redux , Next.js,React.js,Node.js and have a strong understanding of UI/UX principles.
+![Alt Text](https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif)
 
 - 👨‍💻 Software Engineer
 - 🌐 Web Developer
@@ -20,14 +21,14 @@ I'm a web developer with 6+ years of experience in building modern and responsiv
 
 ## Tech Stack
 
-![Tech Stack](https://img.shields.io/badge/Tech-Stack-blue?style=for-the-badge&logo=javascript)
+![JavaScript](https://img.shields.io/badge/Tech-Stack-blue?style=for-the-badge&logo=javascript)
 
 [![Tech Stack](https://img.shields.io/badge/Frontend-React.js-blue?style=for-the-badge&logo=react)](https://reactjs.org/)
 [![Tech Stack](https://img.shields.io/badge/Frontend-Next.js-black?style=for-the-badge&logo=next.js)](https://nextjs.org/)
 [![Tech Stack](https://img.shields.io/badge/Backend-Express.js-green?style=for-the-badge&logo=express)](https://expressjs.com/)
 [![Tech Stack](https://img.shields.io/badge/Backend-Node.js-green?style=for-the-badge&logo=node.js)](https://nodejs.org/)
 
-![Tech Stack](https://img.shields.io/badge/Tech-Stack-blue?style=for-the-badge&logo=typescript)
+![TypeScript](https://img.shields.io/badge/Tech-Stack-blue?style=for-the-badge&logo=typescript)
 
 <!-- Add more badges for other technologies -->
 
