@@ -22,14 +22,14 @@ I'm a web developer with 6+ years of experience in building modern and responsiv
 
 ## Tech Stack
 
-![JavaScript](https://img.shields.io/badge/Tech-Stack-blue?style=for-the-badge&logo=javascript)
+[![JavaScript](https://img.shields.io/badge/Tech-Stack-blue?style=for-the-badge&logo=javascript)
 
 [![Tech Stack](https://img.shields.io/badge/Frontend-React.js-blue?style=for-the-badge&logo=react)](https://reactjs.org/)
 [![Tech Stack](https://img.shields.io/badge/Frontend-Next.js-black?style=for-the-badge&logo=next.js)](https://nextjs.org/)
 [![Tech Stack](https://img.shields.io/badge/Backend-Express.js-green?style=for-the-badge&logo=express)](https://expressjs.com/)
 [![Tech Stack](https://img.shields.io/badge/Backend-Node.js-green?style=for-the-badge&logo=node.js)](https://nodejs.org/)
 
-![TypeScript](https://img.shields.io/badge/Tech-Stack-blue?style=for-the-badge&logo=typescript)
+[![TypeScript](https://img.shields.io/badge/Tech-Stack-blue?style=for-the-badge&logo=typescript)
 
 <!-- Add more badges for other technologies -->
 
