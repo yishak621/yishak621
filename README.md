@@ -1,4 +1,4 @@
-![Profile Image](https://i.imgur.com/Bd44LFn.png)
+
 
 # Hello, I'm Yishak Abrham 👋
 
